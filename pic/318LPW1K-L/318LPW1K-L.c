@@ -1,4 +1,4 @@
-/* micro-controller firmware fot the Monarch 318LIPW1K(-L) remote
+/* micro-controller firmware for the Monarch 318LIPW1K(-L) remote
    Copyright (C) 2014 Kévin Redon <kingkevin@cuvoodoo.info>
 
    This program is free software; you can redistribute it and/or modify

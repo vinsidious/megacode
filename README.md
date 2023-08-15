@@ -177,3 +177,4 @@ This is quite clever as the ID is used as address.
 It saves space, although there is by for too much available.
 It also increases the checking speed as it does not need to go through the memory.
 To verify how many codes have been saved, the whole memory is read once in the beginning and the number of codes counted (to enforce the software limit).
+****
