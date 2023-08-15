@@ -1,0 +1,5 @@
+Address write: 50
+Data write: 1C
+Data write: 17
+Address read: 50
+Data read: A0

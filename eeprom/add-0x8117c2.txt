@@ -1,0 +1,14 @@
+Address write: 50
+Data write: 1C
+Data write: 17
+Address read: 50
+Data read: 01
+Address write: 50
+Data write: 1C
+Data write: 17
+Data write: 03
+Address write: 50
+Data write: 1C
+Data write: 17
+Address read: 50
+Data read: 03

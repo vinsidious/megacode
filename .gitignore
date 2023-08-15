@@ -1,0 +1,9 @@
+# documents I don't have the copyright on
+product
+datasheet
+# ouput binaries
+pic/**/*.asm
+pic/**/*.cod
+pic/**/*.hex
+pic/**/*.lst
+pic/**/*.o
